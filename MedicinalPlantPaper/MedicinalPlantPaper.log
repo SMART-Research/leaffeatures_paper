@@ -1,17 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.28)  28 JAN 2021 06:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.2.2)  3 FEB 2021 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MedicinalPlantPaper.tex
 (./MedicinalPlantPaper.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03>
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/artic
-le.cls
+L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users/j/AppData/Roami
+ng/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/size1
-1.clo
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count177
@@ -25,9 +22,7 @@ File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern
-.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -61,13 +56,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/a
-mssymb.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/a
-msfonts.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
@@ -75,30 +66,20 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsmath/am
-smath.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsmath/am
-stext.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsmath/am
-sgen.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen139
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsmath/am
-sbsy.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen140
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/amsmath/am
-sopn.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count185
@@ -138,21 +119,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/iftex/if
-xetex.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/iftex/if
-tex.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/iftex/if
-luatex.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.st
+y
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/fixlt
-x2e.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -161,38 +135,21 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/fonte
-nc.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 2.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.f
-d
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/input
-enc.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/upquote/up
-quote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/textc
-omp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-microtype.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.st
+y
 Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics/k
-eyval.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 )
@@ -203,8 +160,8 @@ LaTeX Info: Redefining \textls on input line 788.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
 \MT@listname@count=\count198
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-microtype-pdftex.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype-pd
+ftex.def
 File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
@@ -212,82 +169,70 @@ LaTeX Info: Redefining \lslig on input line 915.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-microtype.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtype.cf
+g
 File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hyperref/h
-yperref.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.s
+ty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/
-ltxcmds.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/pdftexcm
-ds/pdftexcmds.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmd
+s.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/infwarer
-r/infwarerr.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.
+sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/kvsetkey
-s/kvsetkeys.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.
+sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/kvdefine
-keys/kvdefinekeys.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefin
+ekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/pdfescap
-e/pdfescape.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.
+sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hy
-color.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/letltxmacr
-o/letltxmacro.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacr
+o.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/auxhook/au
-xhook.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/
-kvoptions.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.st
+y
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen149
 \Hy@linkcounter=\count199
 \Hy@pagecounter=\count266
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hyperref/p
-d1enc.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/intcalc/
-intcalc.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.st
+y
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/etexcmds
-/etexcmds.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.st
+y
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count267
 Package hyperref Info: Option `unicode' set `true' on input line 4338.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hyperref/p
-uenc.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -300,21 +245,17 @@ Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count268
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/url/url.st
-y
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen150
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/bitset/b
-itset.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/bigintca
-lc/bigintcalc.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcal
+c.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -330,9 +271,7 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/atbeg
-shi-ltx.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
@@ -342,13 +281,10 @@ with kernel methods
 \c@Hfootnote=\count272
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hyperref/h
-pdftex.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/atver
-yend-ltx.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
@@ -356,12 +292,12 @@ with kernel methods
 \Fld@listcount=\count273
 \c@bookmark@seq@number=\count274
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/rerunfilec
-heck/rerunfilecheck.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfi
+lecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/uniqueco
-unter/uniquecounter.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/unique
+counter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -370,13 +306,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip53
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 27.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/geometry/g
-eometry.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/iftex/if
-vtex.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count275
@@ -391,27 +323,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen159
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks25
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-iblatex.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.st
+y
 Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/e
-toolbox.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count278
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/logreq/log
-req.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count279
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/logreq/log
-req.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/ifthe
-n.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@tabx@nest=\count280
@@ -466,15 +389,13 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \bibhang=\skip61
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language5
+\blx@langwohyphens=\language3
 \c@mincomprange=\count322
 \c@maxcomprange=\count323
 \c@mincompwidth=\count324
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-lx-dm.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -566,15 +487,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-lx-compat.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-compat.de
+f
 File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-iblatex.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 \c@textcitecount=\count393
 \c@textcitetotal=\count394
@@ -593,20 +512,20 @@ File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.bbx' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-bx/authoryear-comp.bbx
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/authoryea
+r-comp.bbx
 File: authoryear-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-bx/authoryear.bbx
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/authoryea
+r.bbx
 File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-bx/standard.bbx
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/standard.
+bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count402
 \c@bbx:relatedtotal=\count403
@@ -614,8 +533,8 @@ File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'authoryear-comp'...
 Package biblatex Info: ... file 'authoryear-comp.cbx' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/c
-bx/authoryear-comp.cbx
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/cbx/authoryea
+r-comp.cbx
 File: authoryear-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -632,13 +551,9 @@ Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-iblatex.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/tools/long
-table.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip76
 \LTright=\skip77
@@ -655,9 +570,8 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \c@LT@tables=\count407
 \c@LT@chunks=\count408
 \LT@p@ftn=\toks26
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/booktabs/b
-ooktabs.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.st
+y
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen162
 \lightrulewidth=\dimen163
@@ -676,100 +590,79 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count411
 \@lastruleclass=\count412
 \@thisrulewidth=\dimen174
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics/g
-raphicx.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.st
+y
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box53
+\fn@width=\dimen175
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.st
+y
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics/g
-raphics.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics/t
-rig.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics-c
-fg/graphics.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.
+cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics-d
-ef/pdftex.def
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.de
+f
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen175
-\Gin@req@width=\dimen176
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/grffile/gr
-ffile.sty
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/grffile/grffile.sty
 Package: grffile 2019/11/11 v2.1 Extended file name support for graphics (legac
 y)
 Package grffile Info: This package is an empty stub for compatibility on input 
 line 40.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/caption/ca
-ption.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/caption/ca
-ption3.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen177
-\captionmargin@=\dimen178
-\captionwidth=\dimen179
-\caption@tempdima=\dimen180
-\caption@indent=\dimen181
-\caption@parindent=\dimen182
-\caption@hangindent=\dimen183
+\captionmargin=\dimen178
+\captionmargin@=\dimen179
+\captionwidth=\dimen180
+\caption@tempdima=\dimen181
+\caption@indent=\dimen182
+\caption@parindent=\dimen183
+\caption@hangindent=\dimen184
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count413
 \c@continuedfloat=\count414
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/caption/lt
-caption.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/bera.
-sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/bera.sty
 Package: bera 2004/01/31 (WaS)
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/fonte
-nc.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/beras
-erif.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/beraserif.sty
 Package: beraserif 2004/01/30 (WaS)
 LaTeX Font Info:    Trying to load font information for T1+fve on input line 30
 .
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/t1fve
-.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fve.fd
 File: t1fve.fd 2004/09/07 scalable font definitions for T1/fve.
 )
 LaTeX Font Info:    Font shape `T1/fve/m/n' will be
 (Font)              scaled to size 9.85492pt on input line 30.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/beras
-ans.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/berasans.sty
 Package: berasans 2004/01/30 (WaS)
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/beram
-ono.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/beramono.sty
 Package: beramono 2004/01/31 (WaS)
-))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/mat
-hpazo.sty
+)) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup6
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/f
-ancyhdr.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.st
+y
 Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip80
@@ -781,9 +674,7 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@erf=\skip86
 \f@nch@O@olf=\skip87
 \f@nch@O@orf=\skip88
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/tools/bm.s
-ty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
@@ -791,30 +682,25 @@ Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldupright=\mathgroup10
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/titlesec/t
-itlesec.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.st
+y
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box53
+\ttl@box=\box54
 \beforetitleunit=\skip89
 \aftertitleunit=\skip90
-\ttl@plus=\dimen184
-\ttl@minus=\dimen185
+\ttl@plus=\dimen185
+\ttl@minus=\dimen186
 \ttl@toksa=\toks27
-\titlewidth=\dimen186
-\titlewidthlast=\dimen187
-\titlewidthfirst=\dimen188
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/setspace/s
-etspace.sty
+\titlewidth=\dimen187
+\titlewidthlast=\dimen188
+\titlewidthfirst=\dimen189
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.st
+y
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xco
-lor.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/graphics-c
-fg/color.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -833,37 +719,30 @@ Package hyperref Info: Option `bookmarksopen' set `true' on input line 216.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 216.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 216.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/base/fonte
-nc.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
 2.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/t1p
-pl.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/mathtools/
-mathtools.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mathtools/mathtools.st
+y
 Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/tools/calc
-.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count415
 \calc@Bcount=\count416
-\calc@Adimen=\dimen189
-\calc@Bdimen=\dimen190
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
 \calc@Askip=\skip91
 \calc@Bskip=\skip92
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count417
 \calc@Cskip=\skip93
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/mathtools/
-mhsetup.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mathtools/mhsetup.st
+y
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
@@ -871,60 +750,54 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \g_MT_multlinerow_int=\count418
-\l_MT_multwidth_dim=\dimen191
+\l_MT_multwidth_dim=\dimen192
 \origjot=\skip94
-\l_MT_shortvdotswithinadjustabove_dim=\dimen192
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen193
-\l_MT_above_intertext_sep=\dimen194
-\l_MT_below_intertext_sep=\dimen195
-\l_MT_above_shortintertext_sep=\dimen196
-\l_MT_below_shortintertext_sep=\dimen197
-\xmathstrut@box=\box54
-\xmathstrut@dim=\dimen198
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/eukdate/eu
-kdate.sty
+\l_MT_shortvdotswithinadjustabove_dim=\dimen193
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen194
+\l_MT_above_intertext_sep=\dimen195
+\l_MT_below_intertext_sep=\dimen196
+\l_MT_above_shortintertext_sep=\dimen197
+\l_MT_below_shortintertext_sep=\dimen198
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen199
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/eukdate/eukdate.sty
 Package: eukdate 2009/03/18 v1.04 UK format date (Hart's Rules) with weekday
 \c@euk@date=\count419
 \c@euk@month=\count420
 \c@euk@century=\count421
 \c@euk@year=\count422
-)
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/xpatch/xpa
-tch.sty
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/e
-xpl3.sty
+) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xpatch/xpatch.sty (c
+:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-01-09 L3 programming layer (loader) 
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/l3backend/
-l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count423
-\l__pdf_internal_box=\box55
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count423
+\l__pdf_internal_box=\box56
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/l3packages
-/xparse/xparse.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xpar
+se.sty
 Package: xparse 2020-10-27 L3 Experimental document command parser
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/l3packages
-/xparse/xparse-generic.tex)))
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/textpos/te
-xtpos.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xpar
+se-generic.tex))) (c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/text
+pos/textpos.sty
 Package: textpos 2020/09/26 v1.10
 Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
 Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box56
-\TP@holdbox=\box57
-\TPHorizModule=\dimen199
-\TPVertModule=\dimen256
-\TP@margin=\dimen257
-\TP@absmargin=\dimen258
+\TP@textbox=\box57
+\TP@holdbox=\box58
+\TPHorizModule=\dimen256
+\TPVertModule=\dimen257
+\TP@margin=\dimen258
+\TP@absmargin=\dimen259
 Grid set 16 x 16 = 37.34424pt x 52.81541pt
-\TPboxrulesize=\dimen259
-\TP@ox=\dimen260
-\TP@oy=\dimen261
+\TPboxrulesize=\dimen260
+\TP@ox=\dimen261
+\TP@oy=\dimen262
 \TP@tbargs=\toks28
 TextBlockOrigin set to 0pt x 0pt
 )
@@ -962,23 +835,17 @@ LaTeX Info: Redefining \showhyphens on input line 293.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-mt-ppl.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ppl.cfg
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 Package hyperref Info: Link coloring ON on input line 293.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/hyperref/n
-ameref.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/refcount/r
-efcount.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/generic/gettitle
-string/gettitlestring.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/getti
+tlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count426
@@ -1027,8 +894,8 @@ LaTeX Info: Redefining \nameref on input line 293.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/l
-bx/english.lbx
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/lbx/english.l
+bx
 File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -1040,8 +907,8 @@ Package biblatex Info: ... and expl3
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/biblatex/b
-lx-case-expl3.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl
+3.sty
 Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 )
 \openout3 = `MedicinalPlantPaper.bcf'.
@@ -1052,14 +919,14 @@ Package biblatex Info: ... file 'MedicinalPlantPaper.bbl' found.
 Package biblatex Info: Reference section=0 on input line 293.
 Package biblatex Info: Reference segment=0 on input line 293.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-p
-kg/epstopdf-base.sty
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-
+base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/latexconfi
-g/epstopdf-sys.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-s
+ys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -1067,9 +934,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Trying to load font information for T1+fvs on input line 29
 4.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/bera/t1fvs
-.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fvs.fd
 File: t1fvs.fd 2004/09/07 scalable font definitions for T1/fvs.
 )
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
@@ -1088,37 +953,27 @@ LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 294.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
 94.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1
-ppl.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/oml
-zplm.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/oms
-zplm.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omx
-zplm.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 12.50409pt on input line 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-mt-msa.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -1127,9 +982,7 @@ LaTeX Font Info:    Font shape `U/msa/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 294.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 12.50409pt on input line 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/microtype/
-mt-msb.cfg
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
@@ -1138,9 +991,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.29405pt on input line 294.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
 294.
-
-(/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1
-zplm.fd
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 294--294
@@ -1161,39 +1012,891 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 294.
 [1
 
-{/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-var/fonts/map/pdftex/updm
-ap/pdftex.map}]
+{c:/Users/j/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
+p}]
 LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
 (Font)              scaled to size 9.85492pt on input line 295.
 LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
 (Font)              scaled to size 13.49991pt on input line 303.
-<MedicinalPlantPaper_files/figure-latex/histogram-1.pdf, id=18, 578.16pt x 361.
-35pt>
-File: MedicinalPlantPaper_files/figure-latex/histogram-1.pdf Graphic file (type
- pdf)
-<use MedicinalPlantPaper_files/figure-latex/histogram-1.pdf>
-Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/histogram-1.pdf
-  used on input line 309.
+[2]
+<MedicinalPlantPaper_files/figure-latex/unf1-1.pdf, id=202, 578.16pt x 361.35pt
+>
+File: MedicinalPlantPaper_files/figure-latex/unf1-1.pdf Graphic file (type pdf)
+
+<use MedicinalPlantPaper_files/figure-latex/unf1-1.pdf>
+Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/unf1-1.pdf  use
+d on input line 311.
 (pdftex.def)             Requested size: 455.24165pt x 284.52603pt.
-[2 <./MedicinalPlantPaper_files/figure-latex/histogram-1.pdf>]
+<MedicinalPlantPaper_files/figure-latex/unf2-1.pdf, id=211, 578.16pt x 361.35pt
+>
+File: MedicinalPlantPaper_files/figure-latex/unf2-1.pdf Graphic file (type pdf)
 
-Package caption Warning: Unused \captionsetup[table] on input line 71.
-See the caption package documentation for explanation.
+<use MedicinalPlantPaper_files/figure-latex/unf2-1.pdf>
+Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/unf2-1.pdf  use
+d on input line 319.
+(pdftex.def)             Requested size: 455.24165pt x 284.52603pt.
+<MedicinalPlantPaper_files/figure-latex/unf3-1.pdf, id=215, 578.16pt x 361.35pt
+>
+File: MedicinalPlantPaper_files/figure-latex/unf3-1.pdf Graphic file (type pdf)
 
+<use MedicinalPlantPaper_files/figure-latex/unf3-1.pdf>
+Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/unf3-1.pdf  use
+d on input line 327.
+(pdftex.def)             Requested size: 455.24165pt x 284.52603pt.
+<MedicinalPlantPaper_files/figure-latex/unf4-1.pdf, id=219, 578.16pt x 361.35pt
+>
+File: MedicinalPlantPaper_files/figure-latex/unf4-1.pdf Graphic file (type pdf)
+
+<use MedicinalPlantPaper_files/figure-latex/unf4-1.pdf>
+Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/unf4-1.pdf  use
+d on input line 335.
+(pdftex.def)             Requested size: 455.24165pt x 284.52603pt.
 LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 319.
+(Font)              scaled to size 12.9599pt on input line 337.
 LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 319.
-[3] (./MedicinalPlantPaper.aux)
+(Font)              scaled to size 12.9599pt on input line 337.
+[3] [4 <./MedicinalPlantPaper_files/figure-latex/unf1-1.pdf> <./MedicinalPlantP
+aper_files/figure-latex/unf2-1.pdf>] [5 <./MedicinalPlantPaper_files/figure-lat
+ex/unf3-1.pdf>] [6 <./MedicinalPlantPaper_files/figure-latex/unf4-1.pdf>]
+<Figures/methodology.png, id=301, 718.18312pt x 82.05656pt>
+File: Figures/methodology.png Graphic file (type png)
+<use Figures/methodology.png>
+Package pdftex.def Info: Figures/methodology.png  used on input line 360.
+(pdftex.def)             Requested size: 409.73027pt x 46.81403pt.
+[7]
+<Figures/Overview_new.png, id=310, 577.40718pt x 441.14813pt>
+File: Figures/Overview_new.png Graphic file (type png)
+<use Figures/Overview_new.png>
+Package pdftex.def Info: Figures/Overview_new.png  used on input line 383.
+(pdftex.def)             Requested size: 409.7329pt x 313.04234pt.
+[8 <./Figures/methodology.png> <./Figures/Overview_new.png>]
+<MedicinalPlantPaper_files/figure-latex/map-1.pdf, id=326, 578.16pt x 361.35pt>
+
+File: MedicinalPlantPaper_files/figure-latex/map-1.pdf Graphic file (type pdf)
+<use MedicinalPlantPaper_files/figure-latex/map-1.pdf>
+Package pdftex.def Info: MedicinalPlantPaper_files/figure-latex/map-1.pdf  used
+ on input line 405.
+(pdftex.def)             Requested size: 455.24165pt x 284.52603pt.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 4
+22.
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [9]
+<Figures/actual_image_collection_process.png, id=337, 859.71187pt x 203.25937pt
+>
+File: Figures/actual_image_collection_process.png Graphic file (type png)
+<use Figures/actual_image_collection_process.png>
+Package pdftex.def Info: Figures/actual_image_collection_process.png  used on i
+nput line 427.
+(pdftex.def)             Requested size: 409.71855pt x 96.86865pt.
+[10 <./MedicinalPlantPaper_files/figure-latex/map-1.pdf> <./Figures/actual_imag
+e_collection_process.png>]
+<Figures/with_flash.png, id=354, 162.6075pt x 71.51718pt>
+File: Figures/with_flash.png Graphic file (type png)
+<use Figures/with_flash.png>
+Package pdftex.def Info: Figures/with_flash.png  used on input line 446.
+(pdftex.def)             Requested size: 162.60957pt x 71.51808pt.
+<Figures/ex1.png, id=355, 296.60812pt x 126.4725pt>
+File: Figures/ex1.png Graphic file (type png)
+<use Figures/ex1.png>
+Package pdftex.def Info: Figures/ex1.png  used on input line 455.
+(pdftex.def)             Requested size: 296.61191pt x 126.4741pt.
+<Figures/clos_img.png, id=356, 145.29282pt x 103.88812pt>
+File: Figures/clos_img.png Graphic file (type png)
+<use Figures/clos_img.png>
+Package pdftex.def Info: Figures/clos_img.png  used on input line 464.
+(pdftex.def)             Requested size: 145.29909pt x 103.89261pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./Figures/with_flash.png> <./Figures/ex1.png>]
+Overfull \hbox (13.0367pt too wide) in alignment at lines 480--485
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (13.0367pt too wide) in alignment at lines 485--490
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (13.0367pt too wide) in alignment at lines 490--493
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (13.0367pt too wide) in alignment at lines 493--496
+ [] [] [] [] 
+ []
+
+<./Figures/Adathoda.jpg, id=366, 3468.96pt x 4625.28pt>
+File: ./Figures/Adathoda.jpg Graphic file (type jpg)
+<use ./Figures/Adathoda.jpg>
+Package pdftex.def Info: ./Figures/Adathoda.jpg  used on input line 497.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Akkapana.jpg, id=367, 3468.96pt x 4625.28pt>
+File: ./Figures/Akkapana.jpg Graphic file (type jpg)
+<use ./Figures/Akkapana.jpg>
+Package pdftex.def Info: ./Figures/Akkapana.jpg  used on input line 498.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Belathana.jpg, id=368, 3468.96pt x 4625.28pt>
+File: ./Figures/Belathana.jpg Graphic file (type jpg)
+<use ./Figures/Belathana.jpg>
+Package pdftex.def Info: ./Figures/Belathana.jpg  used on input line 499.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Beli.jpg, id=369, 3468.96pt x 4625.28pt>
+File: ./Figures/Beli.jpg Graphic file (type jpg)
+<use ./Figures/Beli.jpg>
+Package pdftex.def Info: ./Figures/Beli.jpg  used on input line 500.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Bilin.jpg, id=370, 3468.96pt x 4625.28pt>
+File: ./Figures/Bilin.jpg Graphic file (type jpg)
+<use ./Figures/Bilin.jpg>
+Package pdftex.def Info: ./Figures/Bilin.jpg  used on input line 501.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Bulath.jpg, id=371, 3468.96pt x 4625.28pt>
+File: ./Figures/Bulath.jpg Graphic file (type jpg)
+<use ./Figures/Bulath.jpg>
+Package pdftex.def Info: ./Figures/Bulath.jpg  used on input line 502.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Dehi.jpg, id=372, 3468.96pt x 4625.28pt>
+File: ./Figures/Dehi.jpg Graphic file (type jpg)
+<use ./Figures/Dehi.jpg>
+Package pdftex.def Info: ./Figures/Dehi.jpg  used on input line 503.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Delum.jpg, id=373, 3468.96pt x 4625.28pt>
+File: ./Figures/Delum.jpg Graphic file (type jpg)
+<use ./Figures/Delum.jpg>
+Package pdftex.def Info: ./Figures/Delum.jpg  used on input line 504.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Gammiris.jpg, id=374, 3468.96pt x 4625.28pt>
+File: ./Figures/Gammiris.jpg Graphic file (type jpg)
+<use ./Figures/Gammiris.jpg>
+Package pdftex.def Info: ./Figures/Gammiris.jpg  used on input line 505.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Godukola.jpg, id=375, 3468.96pt x 4625.28pt>
+File: ./Figures/Godukola.jpg Graphic file (type jpg)
+<use ./Figures/Godukola.jpg>
+Package pdftex.def Info: ./Figures/Godukola.jpg  used on input line 506.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Hathawariya.jpg, id=376, 3468.96pt x 4625.28pt>
+File: ./Figures/Hathawariya.jpg Graphic file (type jpg)
+<use ./Figures/Hathawariya.jpg>
+Package pdftex.def Info: ./Figures/Hathawariya.jpg  used on input line 507.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Iguru.jpg, id=377, 3468.96pt x 4625.28pt>
+File: ./Figures/Iguru.jpg Graphic file (type jpg)
+<use ./Figures/Iguru.jpg>
+Package pdftex.def Info: ./Figures/Iguru.jpg  used on input line 508.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Iramusu.jpg, id=378, 3468.96pt x 4625.28pt>
+File: ./Figures/Iramusu.jpg Graphic file (type jpg)
+<use ./Figures/Iramusu.jpg>
+Package pdftex.def Info: ./Figures/Iramusu.jpg  used on input line 509.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Iriweriya.jpg, id=379, 3468.96pt x 4625.28pt>
+File: ./Figures/Iriweriya.jpg Graphic file (type jpg)
+<use ./Figures/Iriweriya.jpg>
+Package pdftex.def Info: ./Figures/Iriweriya.jpg  used on input line 510.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Kabaranka.jpg, id=380, 3468.96pt x 4625.28pt>
+File: ./Figures/Kabaranka.jpg Graphic file (type jpg)
+<use ./Figures/Kabaranka.jpg>
+Package pdftex.def Info: ./Figures/Kabaranka.jpg  used on input line 511.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Karapincha.jpg, id=381, 3468.96pt x 4625.28pt>
+File: ./Figures/Karapincha.jpg Graphic file (type jpg)
+<use ./Figures/Karapincha.jpg>
+Package pdftex.def Info: ./Figures/Karapincha.jpg  used on input line 512.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Kohoba.jpg, id=382, 4143.48pt x 3107.61pt>
+File: ./Figures/Kohoba.jpg Graphic file (type jpg)
+<use ./Figures/Kohoba.jpg>
+Package pdftex.def Info: ./Figures/Kohoba.jpg  used on input line 513.
+(pdftex.def)             Requested size: 82.8871pt x 62.16531pt.
+<./Figures/Kuppameniya.jpg, id=383, 3468.96pt x 4625.28pt>
+File: ./Figures/Kuppameniya.jpg Graphic file (type jpg)
+<use ./Figures/Kuppameniya.jpg>
+Package pdftex.def Info: ./Figures/Kuppameniya.jpg  used on input line 514.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Kurudu.jpg, id=384, 3468.96pt x 4625.28pt>
+File: ./Figures/Kurudu.jpg Graphic file (type jpg)
+<use ./Figures/Kurudu.jpg>
+Package pdftex.def Info: ./Figures/Kurudu.jpg  used on input line 515.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Mukunuwanna.jpg, id=385, 3468.96pt x 4625.28pt>
+File: ./Figures/Mukunuwanna.jpg Graphic file (type jpg)
+<use ./Figures/Mukunuwanna.jpg>
+Package pdftex.def Info: ./Figures/Mukunuwanna.jpg  used on input line 516.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+
+Overfull \hbox (13.0367pt too wide) in alignment at lines 496--516
+ [] [] [] [] 
+ []
+
+<./Figures/Murunga.jpg, id=386, 3468.96pt x 4625.28pt>
+File: ./Figures/Murunga.jpg Graphic file (type jpg)
+<use ./Figures/Murunga.jpg>
+Package pdftex.def Info: ./Figures/Murunga.jpg  used on input line 517.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Nil_katarolu.jpg, id=387, 4143.48pt x 3107.61pt>
+File: ./Figures/Nil_katarolu.jpg Graphic file (type jpg)
+<use ./Figures/Nil_katarolu.jpg>
+Package pdftex.def Info: ./Figures/Nil_katarolu.jpg  used on input line 518.
+(pdftex.def)             Requested size: 82.8871pt x 62.16531pt.
+<./Figures/Passion.jpg, id=388, 4143.48pt x 3107.61pt>
+File: ./Figures/Passion.jpg Graphic file (type jpg)
+<use ./Figures/Passion.jpg>
+Package pdftex.def Info: ./Figures/Passion.jpg  used on input line 519.
+(pdftex.def)             Requested size: 82.8871pt x 62.16531pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/ppl/m/it/10.95 (+20) Cardiospermum hal-i-ca-
+ []
+
+<./Figures/Penela.jpg, id=389, 3468.96pt x 4625.28pt>
+File: ./Figures/Penela.jpg Graphic file (type jpg)
+<use ./Figures/Penela.jpg>
+Package pdftex.def Info: ./Figures/Penela.jpg  used on input line 520.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Polpala.jpg, id=390, 3468.96pt x 4625.28pt>
+File: ./Figures/Polpala.jpg Graphic file (type jpg)
+<use ./Figures/Polpala.jpg>
+Package pdftex.def Info: ./Figures/Polpala.jpg  used on input line 521.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Rasakida.jpg, id=391, 3468.96pt x 4625.28pt>
+File: ./Figures/Rasakida.jpg Graphic file (type jpg)
+<use ./Figures/Rasakida.jpg>
+Package pdftex.def Info: ./Figures/Rasakida.jpg  used on input line 522.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Rathmal.jpg, id=392, 3468.96pt x 4625.28pt>
+File: ./Figures/Rathmal.jpg Graphic file (type jpg)
+<use ./Figures/Rathmal.jpg>
+Package pdftex.def Info: ./Figures/Rathmal.jpg  used on input line 523.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Thebu.jpg, id=393, 3468.96pt x 4625.28pt>
+File: ./Figures/Thebu.jpg Graphic file (type jpg)
+<use ./Figures/Thebu.jpg>
+Package pdftex.def Info: ./Figures/Thebu.jpg  used on input line 524.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Thel_eradu.jpg, id=394, 3468.96pt x 4625.28pt>
+File: ./Figures/Thel_eradu.jpg Graphic file (type jpg)
+<use ./Figures/Thel_eradu.jpg>
+Package pdftex.def Info: ./Figures/Thel_eradu.jpg  used on input line 525.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Thora.jpg, id=395, 3468.96pt x 4625.28pt>
+File: ./Figures/Thora.jpg Graphic file (type jpg)
+<use ./Figures/Thora.jpg>
+Package pdftex.def Info: ./Figures/Thora.jpg  used on input line 526.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+<./Figures/Weldodam.jpg, id=396, 3468.96pt x 4625.28pt>
+File: ./Figures/Weldodam.jpg Graphic file (type jpg)
+<use ./Figures/Weldodam.jpg>
+Package pdftex.def Info: ./Figures/Weldodam.jpg  used on input line 527.
+(pdftex.def)             Requested size: 69.39384pt x 92.52513pt.
+
+Overfull \hbox (13.0367pt too wide) in alignment at lines 516--528
+ [] [] [] [] 
+ []
+
+[12 <./Figures/clos_img.png> <./Figures/Adathoda.jpg> <./Figures/Akkapana.jpg> 
+<./Figures/Belathana.jpg> <./Figures/Beli.jpg> <./Figures/Bilin.jpg> <./Figures
+/Bulath.jpg> <./Figures/Dehi.jpg> <./Figures/Delum.jpg> <./Figures/Gammiris.jpg
+> <./Figures/Godukola.jpg> <./Figures/Hathawariya.jpg> <./Figures/Iguru.jpg> <.
+/Figures/Iramusu.jpg> <./Figures/Iriweriya.jpg> <./Figures/Kabaranka.jpg> <./Fi
+gures/Karapincha.jpg> <./Figures/Kohoba.jpg> <./Figures/Kuppameniya.jpg> <./Fig
+ures/Kurudu.jpg> <./Figures/Mukunuwanna.jpg> <./Figures/Murunga.jpg>]
+<Figures/flavia_images.png, id=406, 548.0475pt x 246.9225pt>
+File: Figures/flavia_images.png Graphic file (type png)
+<use Figures/flavia_images.png>
+Package pdftex.def Info: Figures/flavia_images.png  used on input line 551.
+(pdftex.def)             Requested size: 409.7217pt x 184.59987pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./Figures/Nil_katarolu.jpg> <./Figures/Passion.jpg> <./Figures/Penela.jpg>
+ <./Figures/Polpala.jpg> <./Figures/Rasakida.jpg> <./Figures/Rathmal.jpg> <./Fi
+gures/Thebu.jpg> <./Figures/Thel_eradu.jpg> <./Figures/Thora.jpg> <./Figures/We
+ldodam.jpg>]
+<Figures/swedish_data.png, id=416, 545.03625pt x 274.77657pt>
+File: Figures/swedish_data.png Graphic file (type png)
+<use Figures/swedish_data.png>
+Package pdftex.def Info: Figures/swedish_data.png  used on input line 568.
+(pdftex.def)             Requested size: 409.71596pt x 206.55568pt.
+<Figures/kaggle.png, id=418, 570.63188pt x 380.17032pt>
+File: Figures/kaggle.png Graphic file (type png)
+<use Figures/kaggle.png>
+Package pdftex.def Info: Figures/kaggle.png  used on input line 585.
+(pdftex.def)             Requested size: 409.714pt x 272.9625pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./Figures/flavia_images.png> <./Figures/swedish_data.png>]
+<Figures/image_processing.png, id=431, 754.31813pt x 194.97844pt>
+File: Figures/image_processing.png Graphic file (type png)
+<use Figures/image_processing.png>
+Package pdftex.def Info: Figures/image_processing.png  used on input line 607.
+(pdftex.def)             Requested size: 409.70828pt x 105.90263pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[15 <./Figures/kaggle.png>] [16 <./Figures/image_processing.png>]
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 67
+6.
+(c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 676.
+[17] [18]
+
+LaTeX Warning: Reference `eq:eu' on page 19 undefined on input line 750.
+
+[19]
+<Figures/remove_stalk.png, id=472, 442.65375pt x 274.02374pt>
+File: Figures/remove_stalk.png Graphic file (type png)
+<use Figures/remove_stalk.png>
+Package pdftex.def Info: Figures/remove_stalk.png  used on input line 763.
+(pdftex.def)             Requested size: 227.054pt x 140.55724pt.
+[20 <./Figures/remove_stalk.png>]
+<Figures/close_holes.png, id=481, 453.94594pt x 263.48438pt>
+File: Figures/close_holes.png Graphic file (type png)
+<use Figures/close_holes.png>
+Package pdftex.def Info: Figures/close_holes.png  used on input line 786.
+(pdftex.def)             Requested size: 242.16254pt x 140.55869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--822
+[]|\T1/ppl/m/n/10.95 (+20) Scangostics Fea-tures
+ []
+
+[21 <./Figures/close_holes.png>] [22] [23]
+<Figures/geomatric_transformation.png, id=506, 664.73344pt x 339.51843pt>
+File: Figures/geomatric_transformation.png Graphic file (type png)
+<use Figures/geomatric_transformation.png>
+Package pdftex.def Info: Figures/geomatric_transformation.png  used on input li
+ne 835.
+(pdftex.def)             Requested size: 409.71645pt x 209.26625pt.
+<Figures/trans.jpg, id=509, 867.24pt x 1156.32pt>
+File: Figures/trans.jpg Graphic file (type jpg)
+<use Figures/trans.jpg>
+Package pdftex.def Info: Figures/trans.jpg  used on input line 846.
+(pdftex.def)             Requested size: 158.12111pt x 210.82816pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/scaling.jpg, id=510, 867.24pt x 1156.32pt>
+File: Figures/scaling.jpg Graphic file (type jpg)
+<use Figures/scaling.jpg>
+Package pdftex.def Info: Figures/scaling.jpg  used on input line 855.
+(pdftex.def)             Requested size: 158.12111pt x 210.82816pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/cnt.png, id=512, 268.00125pt x 143.78719pt>
+File: Figures/cnt.png Graphic file (type png)
+<use Figures/cnt.png>
+Package pdftex.def Info: Figures/cnt.png  used on input line 869.
+(pdftex.def)             Requested size: 268.00876pt x 143.79121pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/shape_chart.png, id=516, 529.22719pt x 271.76532pt>
+File: Figures/shape_chart.png Graphic file (type png)
+<use Figures/shape_chart.png>
+Package pdftex.def Info: Figures/shape_chart.png  used on input line 880.
+(pdftex.def)             Requested size: 318.66931pt x 163.64099pt.
+[24 <./Figures/geomatric_transformation.png>]
+
+LaTeX Warning: Text page 25 contains only floats.
+
+[25 <./Figures/trans.jpg> <./Figures/scaling.jpg> <./Figures/cnt.png>]
+
+LaTeX Warning: Reference `tab:table1' on page 26 undefined on input line 887.
+
+
+LaTeX Warning: Reference `eq:equa_shape' on page 26 undefined on input line 894
+.
+
+<Figures/d_cal.png, id=535, 429.85594pt x 326.72063pt>
+File: Figures/d_cal.png Graphic file (type png)
+<use Figures/d_cal.png>
+Package pdftex.def Info: Figures/d_cal.png  used on input line 903.
+(pdftex.def)             Requested size: 318.67216pt x 242.21317pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/act3.png, id=536, 353.06906pt x 267.24844pt>
+File: Figures/act3.png Graphic file (type png)
+<use Figures/act3.png>
+Package pdftex.def Info: Figures/act3.png  used on input line 917.
+(pdftex.def)             Requested size: 318.66968pt x 241.21053pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img7.png, id=537, 386.94562pt x 257.46187pt>
+File: Figures/kg_img7.png Graphic file (type png)
+<use Figures/kg_img7.png>
+Package pdftex.def Info: Figures/kg_img7.png  used on input line 926.
+(pdftex.def)             Requested size: 318.67316pt x 212.03543pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/act1.png, id=538, 246.1697pt x 179.16937pt>
+File: Figures/act1.png Graphic file (type png)
+<use Figures/act1.png>
+Package pdftex.def Info: Figures/act1.png  used on input line 937.
+(pdftex.def)             Requested size: 246.1841pt x 179.17986pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/act2.png, id=539, 367.3725pt x 234.8775pt>
+File: Figures/act2.png Graphic file (type png)
+<use Figures/act2.png>
+Package pdftex.def Info: Figures/act2.png  used on input line 948.
+(pdftex.def)             Requested size: 318.69215pt x 203.754pt.
+[26 <./Figures/shape_chart.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27 <./Figures/d_cal.png> <./Figures/act3.png>]
+<Figures/c8.png, id=557, 304.13625pt x 161.85469pt>
+File: Figures/c8.png Graphic file (type png)
+<use Figures/c8.png>
+Package pdftex.def Info: Figures/c8.png  used on input line 974.
+(pdftex.def)             Requested size: 304.15405pt x 161.86415pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/c6.png, id=558, 471.26062pt x 160.34906pt>
+File: Figures/c6.png Graphic file (type png)
+<use Figures/c6.png>
+Package pdftex.def Info: Figures/c6.png  used on input line 986.
+(pdftex.def)             Requested size: 318.66965pt x 108.42912pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/c10.png, id=559, 424.58624pt x 197.23688pt>
+File: Figures/c10.png Graphic file (type png)
+<use Figures/c10.png>
+Package pdftex.def Info: Figures/c10.png  used on input line 998.
+(pdftex.def)             Requested size: 318.68509pt x 148.04164pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/c9.png, id=560, 304.13625pt x 159.59625pt>
+File: Figures/c9.png Graphic file (type png)
+<use Figures/c9.png>
+Package pdftex.def Info: Figures/c9.png  used on input line 1010.
+(pdftex.def)             Requested size: 304.1355pt x 159.59584pt.
+[28 <./Figures/kg_img7.png> <./Figures/act1.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/c11.png, id=570, 318.43968pt x 243.91125pt>
+File: Figures/c11.png Graphic file (type png)
+<use Figures/c11.png>
+Package pdftex.def Info: Figures/c11.png  used on input line 1019.
+(pdftex.def)             Requested size: 318.44376pt x 243.91435pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \vbox (31.69843pt too high) has occurred while \output is active []
+
+[29 <./Figures/act2.png> <./Figures/c8.png> <./Figures/c6.png>]
+<Figures/c7.png, id=585, 257.46187pt x 163.3603pt>
+File: Figures/c7.png Graphic file (type png)
+<use Figures/c7.png>
+Package pdftex.def Info: Figures/c7.png  used on input line 1035.
+(pdftex.def)             Requested size: 257.46123pt x 163.3599pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[30 <./Figures/c10.png> <./Figures/c9.png> <./Figures/c11.png>]
+<Figures/mn.png, id=597, 479.54156pt x 228.855pt>
+File: Figures/mn.png Graphic file (type png)
+<use Figures/mn.png>
+Package pdftex.def Info: Figures/mn.png  used on input line 1052.
+(pdftex.def)             Requested size: 318.67162pt x 152.0819pt.
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1060--1065
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1065--1070
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1070--1073
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1073--1076
+ [] [] [] [] 
+ []
+
+<./Figures/centroid.png, id=598, 59.47218pt x 115.93312pt>
+File: ./Figures/centroid.png Graphic file (type png)
+<use ./Figures/centroid.png>
+Package pdftex.def Info: ./Figures/centroid.png  used on input line 1078.
+(pdftex.def)             Requested size: 29.73601pt x 57.96642pt.
+<./Figures/Length_new.png, id=599, 50.43843pt x 126.4725pt>
+File: ./Figures/Length_new.png Graphic file (type png)
+<use ./Figures/Length_new.png>
+Package pdftex.def Info: ./Figures/Length_new.png  used on input line 1079.
+(pdftex.def)             Requested size: 25.21915pt x 63.23608pt.
+<./Figures/width.png, id=600, 45.16875pt x 112.92188pt>
+File: ./Figures/width.png Graphic file (type png)
+<use ./Figures/width.png>
+Package pdftex.def Info: ./Figures/width.png  used on input line 1080.
+(pdftex.def)             Requested size: 22.5843pt x 56.46078pt.
+<./Figures/dimameter.png, id=601, 50.43843pt x 126.4725pt>
+File: ./Figures/dimameter.png Graphic file (type png)
+<use ./Figures/dimameter.png>
+Package pdftex.def Info: ./Figures/dimameter.png  used on input line 1081.
+(pdftex.def)             Requested size: 25.21915pt x 63.23608pt.
+<./Figures/area.png, id=602, 52.69687pt x 115.18031pt>
+File: ./Figures/area.png Graphic file (type png)
+<use ./Figures/area.png>
+Package pdftex.def Info: ./Figures/area.png  used on input line 1082.
+(pdftex.def)             Requested size: 26.34836pt x 57.59pt.
+<./Figures/perimeter.png, id=603, 49.68562pt x 115.18031pt>
+File: ./Figures/perimeter.png Graphic file (type png)
+<use ./Figures/perimeter.png>
+Package pdftex.def Info: ./Figures/perimeter.png  used on input line 1083.
+(pdftex.def)             Requested size: 24.84274pt x 57.59pt.
+<./Figures/AR.png, id=604, 55.70813pt x 118.94438pt>
+File: ./Figures/AR.png Graphic file (type png)
+<use ./Figures/AR.png>
+Package pdftex.def Info: ./Figures/AR.png  used on input line 1084.
+(pdftex.def)             Requested size: 27.85399pt x 59.47203pt.
+<./Figures/roudness.png, id=605, 115.18031pt x 140.77594pt>
+File: ./Figures/roudness.png Graphic file (type png)
+<use ./Figures/roudness.png>
+Package pdftex.def Info: ./Figures/roudness.png  used on input line 1085.
+(pdftex.def)             Requested size: 57.59pt x 70.38779pt.
+<./Figures/rect.png, id=606, 54.2025pt x 117.43875pt>
+File: ./Figures/rect.png Graphic file (type png)
+<use ./Figures/rect.png>
+Package pdftex.def Info: ./Figures/rect.png  used on input line 1086.
+(pdftex.def)             Requested size: 27.10118pt x 58.71922pt.
+<./Figures/nf.png, id=607, 48.93282pt x 117.43875pt>
+File: ./Figures/nf.png Graphic file (type png)
+<use ./Figures/nf.png>
+Package pdftex.def Info: ./Figures/nf.png  used on input line 1089.
+(pdftex.def)             Requested size: 24.46634pt x 58.71922pt.
+<./Figures/pd.png, id=608, 53.44969pt x 127.22531pt>
+File: ./Figures/pd.png Graphic file (type png)
+<use ./Figures/pd.png>
+Package pdftex.def Info: ./Figures/pd.png  used on input line 1090.
+(pdftex.def)             Requested size: 26.72476pt x 63.61249pt.
+<./Figures/pl.png, id=609, 53.44969pt x 127.22531pt>
+File: ./Figures/pl.png Graphic file (type png)
+<use ./Figures/pl.png>
+Package pdftex.def Info: ./Figures/pl.png  used on input line 1091.
+(pdftex.def)             Requested size: 26.72476pt x 63.61249pt.
+<./Figures/plw.png, id=610, 55.70813pt x 127.22531pt>
+File: ./Figures/plw.png Graphic file (type png)
+<use ./Figures/plw.png>
+Package pdftex.def Info: ./Figures/plw.png  used on input line 1092.
+(pdftex.def)             Requested size: 27.85399pt x 63.61249pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1093
+[]|\T1/ppl/m/n/10.95 (+20) Number of con-vex
+ []
+
+<./Figures/convex.png, id=611, 56.46094pt x 126.4725pt>
+File: ./Figures/convex.png Graphic file (type png)
+<use ./Figures/convex.png>
+Package pdftex.def Info: ./Figures/convex.png  used on input line 1093.
+(pdftex.def)             Requested size: 28.2304pt x 63.23608pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1094
+[]|\T1/ppl/m/n/10.95 (+20) Perimeter con-vex-ity
+ []
+
+<./Figures/p_con.png, id=612, 99.37125pt x 133.24782pt>
+File: ./Figures/p_con.png Graphic file (type png)
+<use ./Figures/p_con.png>
+Package pdftex.def Info: ./Figures/p_con.png  used on input line 1094.
+(pdftex.def)             Requested size: 49.6855pt x 66.62373pt.
+<./Figures/a_c1.png, id=613, 70.01157pt x 131.74219pt>
+File: ./Figures/a_c1.png Graphic file (type png)
+<use ./Figures/a_c1.png>
+Package pdftex.def Info: ./Figures/a_c1.png  used on input line 1095.
+(pdftex.def)             Requested size: 35.00569pt x 65.87093pt.
+<./Figures/a_c2.png, id=614, 96.36pt x 130.23656pt>
+File: ./Figures/a_c2.png Graphic file (type png)
+<use ./Figures/a_c2.png>
+Package pdftex.def Info: ./Figures/a_c2.png  used on input line 1096.
+(pdftex.def)             Requested size: 48.17987pt x 65.11812pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1097
+[]|\T1/ppl/m/n/10.95 (+20) Equivalent di-am-e-ter
+ []
+
+<./Figures/eq_d.png, id=615, 112.16907pt x 136.25906pt>
+File: ./Figures/eq_d.png Graphic file (type png)
+<use ./Figures/eq_d.png>
+Package pdftex.def Info: ./Figures/eq_d.png  used on input line 1097.
+(pdftex.def)             Requested size: 56.08438pt x 68.12935pt.
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1076--1098
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (62.22633pt too wide) in alignment at lines 1098--1099
+ [] [] [] [] 
+ []
+
+[31 <./Figures/c7.png> <./Figures/mn.png> <./Figures/centroid.png> <./Figures/L
+ength_new.png>] [32 <./Figures/width.png> <./Figures/dimameter.png> <./Figures/
+area.png> <./Figures/perimeter.png> <./Figures/AR.png> <./Figures/roudness.png>
+ <./Figures/rect.png>] [33 <./Figures/nf.png> <./Figures/pd.png> <./Figures/pl.
+png> <./Figures/plw.png> <./Figures/convex.png> <./Figures/p_con.png>]
+<Figures/Hathawariya.jpg, id=657, 3468.96pt x 4625.28pt>
+File: Figures/Hathawariya.jpg Graphic file (type jpg)
+<use Figures/Hathawariya.jpg>
+Package pdftex.def Info: Figures/Hathawariya.jpg  used on input line 1110.
+(pdftex.def)             Requested size: 158.10788pt x 210.8105pt.
+[34 <./Figures/a_c1.png> <./Figures/a_c2.png> <./Figures/eq_d.png>]
+<Figures/Iramusu.jpg, id=669, 3468.96pt x 4625.28pt>
+File: Figures/Iramusu.jpg Graphic file (type jpg)
+<use Figures/Iramusu.jpg>
+Package pdftex.def Info: Figures/Iramusu.jpg  used on input line 1119.
+(pdftex.def)             Requested size: 158.10788pt x 210.8105pt.
+[35 <./Figures/Hathawariya.jpg> <./Figures/Iramusu.jpg>]
+<Figures/GLMC_direction.png, id=690, 173.14688pt x 147.55125pt>
+File: Figures/GLMC_direction.png Graphic file (type png)
+<use Figures/GLMC_direction.png>
+Package pdftex.def Info: Figures/GLMC_direction.png  used on input line 1148.
+(pdftex.def)             Requested size: 247.41585pt x 210.84131pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:my-table' on page 36 undefined on input line 1155
+.
+
+[36]
+<Figures/GLMC1.png, id=702, 328.22626pt x 439.6425pt>
+File: Figures/GLMC1.png Graphic file (type png)
+<use Figures/GLMC1.png>
+Package pdftex.def Info: Figures/GLMC1.png  used on input line 1171.
+(pdftex.def)             Requested size: 209.87376pt x 281.11531pt.
+<Figures/GLMC2.png, id=703, 511.15968pt x 201.75375pt>
+File: Figures/GLMC2.png Graphic file (type png)
+<use Figures/GLMC2.png>
+Package pdftex.def Info: Figures/GLMC2.png  used on input line 1180.
+(pdftex.def)             Requested size: 318.67064pt x 125.77869pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37 <./Figures/GLMC_direction.png> <./Figures/GLMC1.png>] [38 <./Figures/GLMC2.
+png>]
+Overfull \hbox (13.43626pt too wide) in paragraph at lines 1213--1213
+[]    \T1/fvm/m/n/10.95 3. Should have a common scale because want to compare t
+hem with each other.[] 
+ []
+
+
+Overfull \hbox (31.23425pt too wide) in paragraph at lines 1213--1213
+[]    \T1/fvm/m/n/10.95 over a large number of heterogeneous scatterplots, to b
+e as large as possible.[] 
+ []
+
+
+Overfull \hbox (7.5036pt too wide) in paragraph at lines 1213--1213
+[]    \T1/fvm/m/n/10.95 6. To be efficiently computable because the scagnostics
+ should be scalable[] 
+ []
+
+<Figures/scag.png, id=722, 602.25pt x 304.88907pt>
+File: Figures/scag.png Graphic file (type png)
+<use Figures/scag.png>
+Package pdftex.def Info: Figures/scag.png  used on input line 1217.
+(pdftex.def)             Requested size: 318.67636pt x 161.32991pt.
+[39 <./Figures/scag.png>]
+<Figures/c4.png, id=730, 406.51875pt x 168.63pt>
+File: Figures/c4.png Graphic file (type png)
+<use Figures/c4.png>
+Package pdftex.def Info: Figures/c4.png  used on input line 1255.
+(pdftex.def)             Requested size: 318.6775pt x 132.19214pt.
+[40 <./Figures/c4.png>] [41]
+<Figures/c5.png, id=745, 407.27156pt x 218.31563pt>
+File: Figures/c5.png Graphic file (type png)
+<use Figures/c5.png>
+Package pdftex.def Info: Figures/c5.png  used on input line 1337.
+(pdftex.def)             Requested size: 318.68349pt x 170.82848pt.
+[42 <./Figures/c5.png>] [43]
+<Figures/c3.png, id=763, 295.85532pt x 154.32657pt>
+File: Figures/c3.png Graphic file (type png)
+<use Figures/c3.png>
+Package pdftex.def Info: Figures/c3.png  used on input line 1396.
+(pdftex.def)             Requested size: 318.67929pt x 166.2322pt.
+[44 <./Figures/c3.png>]
+
+LaTeX Warning: Reference `eq:w2' on page 45 undefined on input line 1447.
+
+
+LaTeX Warning: Reference `eq:w2' on page 45 undefined on input line 1461.
+
+[45] [46]
+
+LaTeX Warning: Reference `eq:w2' on page 47 undefined on input line 1520.
+
+<Figures/c1.png, id=793, 470.50781pt x 191.9672pt>
+File: Figures/c1.png Graphic file (type png)
+<use Figures/c1.png>
+Package pdftex.def Info: Figures/c1.png  used on input line 1524.
+(pdftex.def)             Requested size: 318.67032pt x 130.01749pt.
+<Figures/c2.png, id=794, 240.14719pt x 167.12437pt>
+File: Figures/c2.png Graphic file (type png)
+<use Figures/c2.png>
+Package pdftex.def Info: Figures/c2.png  used on input line 1538.
+(pdftex.def)             Requested size: 302.98277pt x 210.85321pt.
+[47 <./Figures/c1.png> <./Figures/c2.png>]
+<Figures/sca.png, id=804, 362.85562pt x 465.99094pt>
+File: Figures/sca.png Graphic file (type png)
+<use Figures/sca.png>
+Package pdftex.def Info: Figures/sca.png  used on input line 1579.
+(pdftex.def)             Requested size: 164.17493pt x 210.83876pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/scp.png, id=805, 582.67688pt x 463.7325pt>
+File: Figures/scp.png Graphic file (type png)
+<use Figures/scp.png>
+Package pdftex.def Info: Figures/scp.png  used on input line 1588.
+(pdftex.def)             Requested size: 264.91391pt x 210.83586pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/pc.png, id=806, 210.03468pt x 199.49532pt>
+File: Figures/pc.png Graphic file (type png)
+<use Figures/pc.png>
+Package pdftex.def Info: Figures/pc.png  used on input line 1599.
+(pdftex.def)             Requested size: 221.9851pt x 210.84607pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/8.jpg, id=808, 828.09375pt x 450.68375pt>
+File: Figures/8.jpg Graphic file (type jpg)
+<use Figures/8.jpg>
+Package pdftex.def Info: Figures/8.jpg  used on input line 1616.
+(pdftex.def)             Requested size: 318.67177pt x 173.43468pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img1.png, id=810, 253.69781pt x 137.01187pt>
+File: Figures/kg_img1.png Graphic file (type png)
+<use Figures/kg_img1.png>
+Package pdftex.def Info: Figures/kg_img1.png  used on input line 1627.
+(pdftex.def)             Requested size: 318.68153pt x 172.10693pt.
+[48]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img2.png, id=822, 250.68657pt x 136.25906pt>
+File: Figures/kg_img2.png Graphic file (type png)
+<use Figures/kg_img2.png>
+Package pdftex.def Info: Figures/kg_img2.png  used on input line 1638.
+(pdftex.def)             Requested size: 318.705pt x 173.23003pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img3.png, id=824, 252.19218pt x 186.6975pt>
+File: Figures/kg_img3.png Graphic file (type png)
+<use Figures/kg_img3.png>
+Package pdftex.def Info: Figures/kg_img3.png  used on input line 1649.
+(pdftex.def)             Requested size: 284.81221pt x 210.84605pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[49 <./Figures/sca.png> <./Figures/scp.png>]
+<Figures/23.jpg, id=840, 788.9475pt x 358.33875pt>
+File: Figures/23.jpg Graphic file (type jpg)
+<use Figures/23.jpg>
+Package pdftex.def Info: Figures/23.jpg  used on input line 1660.
+(pdftex.def)             Requested size: 318.66725pt x 144.73817pt.
+[50 <./Figures/pc.png> <./Figures/8.jpg> <./Figures/kg_img1.png>]
+<Figures/kgs.png, id=849, 423.83344pt x 112.16907pt>
+File: Figures/kgs.png Graphic file (type png)
+<use Figures/kgs.png>
+Package pdftex.def Info: Figures/kgs.png  used on input line 1669.
+(pdftex.def)             Requested size: 318.68268pt x 84.34052pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img5png.png, id=850, 251.43938pt x 188.20313pt>
+File: Figures/kg_img5png.png Graphic file (type png)
+<use Figures/kg_img5png.png>
+Package pdftex.def Info: Figures/kg_img5png.png  used on input line 1678.
+(pdftex.def)             Requested size: 281.69841pt x 210.8521pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/kg_img4.png, id=852, 252.945pt x 188.20313pt>
+File: Figures/kg_img4.png Graphic file (type png)
+<use Figures/kg_img4.png>
+Package pdftex.def Info: Figures/kg_img4.png  used on input line 1689.
+(pdftex.def)             Requested size: 283.38524pt x 210.8521pt.
+[51 <./Figures/kg_img2.png> <./Figures/kg_img3.png> <./Figures/23.jpg>]
+<Figures/kg_img6.png, id=859, 252.19218pt x 187.45032pt>
+File: Figures/kg_img6.png Graphic file (type png)
+<use Figures/kg_img6.png>
+Package pdftex.def Info: Figures/kg_img6.png  used on input line 1700.
+(pdftex.def)             Requested size: 283.67317pt x 210.84961pt.
+[52 <./Figures/kgs.png> <./Figures/kg_img5png.png> <./Figures/kg_img4.png>]
+<Figures/fl5.png, id=869, 586.44093pt x 289.83281pt>
+File: Figures/fl5.png Graphic file (type png)
+<use Figures/fl5.png>
+Package pdftex.def Info: Figures/fl5.png  used on input line 1713.
+(pdftex.def)             Requested size: 318.66885pt x 157.49359pt.
+<Figures/fl1.png, id=870, 243.91125pt x 178.41656pt>
+File: Figures/fl1.png Graphic file (type png)
+<use Figures/fl1.png>
+Package pdftex.def Info: Figures/fl1.png  used on input line 1724.
+(pdftex.def)             Requested size: 288.24821pt x 210.84822pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/fl2.png, id=871, 240.14719pt x 176.15813pt>
+File: Figures/fl2.png Graphic file (type png)
+<use Figures/fl2.png>
+Package pdftex.def Info: Figures/fl2.png  used on input line 1733.
+(pdftex.def)             Requested size: 287.42397pt x 210.83765pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/fl3.png, id=872, 243.15843pt x 184.43906pt>
+File: Figures/fl3.png Graphic file (type png)
+<use Figures/fl3.png>
+Package pdftex.def Info: Figures/fl3.png  used on input line 1742.
+(pdftex.def)             Requested size: 277.96039pt x 210.83682pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Figures/fl4.png, id=873, 289.08pt x 267.24844pt>
+File: Figures/fl4.png Graphic file (type png)
+<use Figures/fl4.png>
+Package pdftex.def Info: Figures/fl4.png  used on input line 1751.
+(pdftex.def)             Requested size: 228.07074pt x 210.84665pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[53 <./Figures/kg_img6.png> <./Figures/fl5.png>] [54 <./Figures/fl1.png> <./Fig
+ures/fl2.png>] [55 <./Figures/fl3.png> <./Figures/fl4.png>] [56] (./MedicinalPl
+antPaper.aux)
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `MedicinalPlantPaper.out' has not changed.
-(rerunfilecheck)             Checksum: 3477AB780B430B20874CFF88F35FC81B;115.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+(rerunfilecheck)             Checksum: 459B22AC7DDB58B22D1805AF02E844DA;8077.
 Package logreq Info: Writing requests to 'MedicinalPlantPaper.run.xml'.
 \openout1 = `MedicinalPlantPaper.run.xml'.
 
@@ -1203,29 +1906,32 @@ Package logreq Info: Writing requests to 'MedicinalPlantPaper.run.xml'.
 ### semi simple group (level 1) entered at line 187 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22506 strings out of 481265
- 382005 string characters out of 5913755
- 1130432 words of memory out of 5000000
- 38905 multiletter control sequences out of 15000+600000
- 488584 words of font info for 217 fonts, out of 8000000 for 9000
+ 24103 strings out of 481252
+ 407015 string characters out of 5914468
+ 1186814 words of memory out of 5000000
+ 40001 multiletter control sequences out of 15000+600000
+ 499962 words of font info for 331 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,11n,75p,752b,4866s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/font
-s/enc/dvips/base/8r.enc}</Users/thiyangashaminitalagala/Library/TinyTeX/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/thiyangashaminitalagala/Li
-brary/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/thiy
-angashaminitalagala/Library/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplm
-r.pfb></Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist/fonts/type1/pu
-blic/bera/fvsb8a.pfb></Users/thiyangashaminitalagala/Library/TinyTeX/texmf-dist
-/fonts/type1/public/bera/fvsr8a.pfb></Users/thiyangashaminitalagala/Library/Tin
-yTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/thiyangashaminitala
-gala/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/thi
-yangashaminitalagala/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8
-a.pfb>
-Output written on MedicinalPlantPaper.pdf (3 pages, 78333 bytes).
+ 71i,13n,75p,2178b,5499s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/
+base/8r.enc}<c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/j/AppData/Roaming/TinyTeX/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/j/AppData/Roaming/
+TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/j/AppData/Ro
+aming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/Users/j/App
+Data/Roaming/TinyTeX/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb><c:/Users/j/
+AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/bera/fvsb8a.pfb><c:/Users
+/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><c:/Us
+ers/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c
+:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pf
+b><c:/Users/j/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri
+8a.pfb>
+Output written on MedicinalPlantPaper.pdf (56 pages, 95592615 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 75790 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 1003 PDF objects out of 1200 (max. 8388607)
+ 736 compressed objects within 8 object streams
+ 248 named destinations out of 1000 (max. 500000)
+ 88964 words of extra memory for PDF output out of 89155 (max. 10000000)
 
